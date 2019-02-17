@@ -1,4 +1,4 @@
-# HistopathologicCancerDetection
+# [HistopathologicCancerDetection](https://www.kaggle.com/c/histopathologic-cancer-detection)
 In this challenge I tried 3 things:
 ## [Standard deep learning techniques](https://www.kaggle.com/guntherthepenguin/fastai-v1-densenet169)
 I used the as per lieterature best architecture Densenet169 
