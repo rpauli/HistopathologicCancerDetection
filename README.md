@@ -1,11 +1,11 @@
 # HistopathologicCancerDetection
 In this challenge I tried 3 things:
-## Standard deep learning techniques
+## [Standard deep learning techniques](https://www.kaggle.com/guntherthepenguin/fastai-v1-densenet169)
 I used the as per lieterature best architecture Densenet169 
 with Dihedral image augmentations.
-## Optimizing Augmentations
+## [Optimizing Augmentations](https://www.kaggle.com/guntherthepenguin/fast-ai-optimizing-augmentations)
 I used [hyperopt](https://github.com/hyperopt/hyperopt) to find the optimal image augmentations for this dataset
-## group equivariat Convolutional Neural Networks (gCNN)
+## [group equivariat Convolutional Neural Networks (gCNN)](https://www.kaggle.com/guntherthepenguin/fastai-v1-group-equivariate-cnns)
 Based on the paper Veeling et al "Rotation Equivariant CNNs for Digital Pathology"
 I tried to implement it (mainly made it useable with the fastai library since it was already implemented and available).
  <img src="https://raw.githubusercontent.com/basveeling/keras-gcnn/master/model.png" >
